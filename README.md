@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Tourlane as a Software engineer focing on frotend 
-- 📫 How to reach me: anasrizk01@gmai;.com
+- 🔭 I’m currently working on Tourlane as a Software engineer focusing on frontend 
+- 📫 How to reach me: anasrizk01@gmail.com
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
