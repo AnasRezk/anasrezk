@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Tourlane as a Software engineer focusing on frontend 
+- 🔭 I’m currently as a Software engineer focusing on frontend 
 - 📫 How to reach me: anasrizk01@gmail.com
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
